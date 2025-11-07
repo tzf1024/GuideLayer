@@ -36,8 +36,13 @@
 ## 🚀 Quick Start
 
 ### Installation
+Add the GuideLayer dependency to your project's app dependencies:
 
-Copy the GuideOverlayView.kt file to your project.
+```build.gradle.kts
+dependencies {
+    implementation("io.github.tzf1024:guidelayer:0.1.0")
+}
+```
 
 ### Basic Usage
 
