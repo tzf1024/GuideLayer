@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "GuideLayer"
 include(":app")
+include(":guide")
