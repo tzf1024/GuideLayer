@@ -37,14 +37,16 @@
 
 ### 安装
 
-将代码添加到你的项目中：
+将依赖添加到你的项目 app 的 dependencies 中：
 
-```kotlin
-// 将 GuideOverlayView.kt 相关代码复制到你的项目中
+```build.gradle.kts
+dependencies {
+    implementation("io.github.tzf1024:guidelayer:0.1.0")
+}
 ```
 
 ### 基础用法
-
+depen
 #### 单步骤引导
 
 ```kotlin

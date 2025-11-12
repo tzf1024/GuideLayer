@@ -36,8 +36,13 @@
 ## 🚀 Quick Start
 
 ### Installation
+Add the GuideLayer dependency to your project's app dependencies:
 
-Copy the GuideOverlayView.kt file to your project.
+```build.gradle.kts
+dependencies {
+    implementation("io.github.tzf1024:guidelayer:0.1.0")
+}
+```
 
 ### Basic Usage
 
@@ -215,6 +220,15 @@ Position(PositionType.PRESET, preset = PresetPosition.BOTTOM_CENTER)
 - **Programming Language**: Kotlin
 - **AndroidX**: Yes
 
+## 🤝 Contributing
+
+Issues and Pull Requests are welcome!
+
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
+## 📝 Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for version update history.
 
 ## 📄 License
 
